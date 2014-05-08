@@ -1,6 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in hitbtc.gemspec
+# Specify your gem's dependencies in bitcoinde.gemspec
 gemspec
-gem 'httparty'
-gem 'hashie'
